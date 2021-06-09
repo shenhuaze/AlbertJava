@@ -58,3 +58,9 @@ src
 │   │   │   │   ├── encoder_4: 第五层TransformerEncoder的输出
 │   │   │   │   ├── encoder_5: 第六层TransformerEncoder的输出
 │   │   │   │   └── output_layer: 输出层的输出
+```
+
+## 快速开始
+
+运行DemoEntityRecognizer
+
