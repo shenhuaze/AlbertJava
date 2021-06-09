@@ -41,12 +41,12 @@ src
 │   │   ├── com.huaze.shen
 │   │   │   ├── DemoEntityRecognizer: 命名实体识别的demo
 │   │   │   ├── DemoTokenization: 分词的demo
-│   │   │   ├── DemoVerifyAlbertModel: 验证AlbertModel的参数
-│   │   │   ├── DemoVerifyEmbeddingLayer: 验证EmbeddingLayer的参数
-│   │   │   ├── DemoVerifyFeedForwardLayer: 验证FeedForwardLayer的参数
-│   │   │   ├── DemoVerifyMultiHeadSelfAttentionLayer: 验证MultiHeadSelfAttentionLayer的参数
-│   │   │   ├── DemoVerifySequenceLabelingModel: 验证SequenceLabelingModel的参数
-│   │   │   └── DemoVerifyTransformerEncoder: 验证TransformerEncoder的参数
+│   │   │   ├── DemoVerifyAlbertModel: 验证AlbertModel
+│   │   │   ├── DemoVerifyEmbeddingLayer: 验证EmbeddingLayer
+│   │   │   ├── DemoVerifyFeedForwardLayer: 验证FeedForwardLayer
+│   │   │   ├── DemoVerifyMultiHeadSelfAttentionLayer: 验证MultiHeadSelfAttentionLayer
+│   │   │   ├── DemoVerifySequenceLabelingModel: 验证SequenceLabelingModel
+│   │   │   └── DemoVerifyTransformerEncoder: 验证TransformerEncoder
 │   ├── resources: 资源文件
 │   │   │   ├── inputs: 一个样本的输入
 │   │   │   └── outputs: 一个样本经过AlbertModel的所有中间输出
