@@ -2,6 +2,10 @@
 
 基于纯Java实现ALBERT前向推理框架，不依赖任何第三方库
 
+## 快速开始
+
+运行DemoEntityRecognizer
+
 ## 项目结构
 
 ```text
@@ -59,8 +63,4 @@ src
 │   │   │   │   ├── encoder_5: 第六层TransformerEncoder的输出
 │   │   │   │   └── output_layer: 输出层的输出
 ```
-
-## 快速开始
-
-运行DemoEntityRecognizer
 
