@@ -4,7 +4,7 @@
 
 ## 快速开始
 
-运行DemoEntityRecognizer
+运行test下的DemoEntityRecognizer
 
 ## 项目结构
 
